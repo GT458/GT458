@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gt458&label=Profile%20views&color=0e75b6&style=flat" alt="gt458" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gt458" alt="gt458" /></a> </p>
-
 - 🔭 I’m currently working on [dtren800's website](https://dtren800.com)
 
 - 🌱 I’m currently learning **React Native and Rust**
