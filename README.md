@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gt458&label=Profile%20views&color=0e75b6&style=flat" alt="gt458" /> </p>
 
-- 🔭 I’m currently working on [dtren800's website](https://dtren800.com)
+- 🔭 I’m currently working on [dtren800's website](https://dtren800.com) and [Advent of Code 2022](https://github.com/GT458/advent-of-code-2022)
 
 - 🌱 I’m currently learning **React Native and Rust**
 
