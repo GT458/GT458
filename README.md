@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native and Rust**
 
-- 💬 Ask me about **react, firebase**
+- 💬 Ask me about **React, Ruby on Rails, or Flask**
 
 - 📫 How to reach me **isohrob1@gmail.com**
 
