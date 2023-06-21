@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gt458&label=Profile%20views&color=0e75b6&style=flat" alt="gt458" /> </p>
 
-- 🔭 I’m currently working on [dtren800's website](https://dtren800.com) and [Advent of Code 2022](https://github.com/GT458/advent-of-code-2022)
+- 🔭 I’m currently working on [FitfinityAI](https://fitfinityai.com)
 
-- 🌱 I’m currently learning **React Native and Rust**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, Ruby on Rails, or Flask**
+- 💬 Ask me about **React, Python, and Node.js**
 
 - 📫 How to reach me **isohrob1@gmail.com**
 
