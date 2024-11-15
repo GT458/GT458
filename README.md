@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gt458&label=Profile%20views&color=0e75b6&style=flat" alt="gt458" /> </p>
 
-- 🔭 I’m currently working on [FitfinityAI](https://fitfinityai.com)
+- 🔭 I’m currently working on [Earth Rumble](https://www.roblox.com/games/123359624370235/Earthbending-Production)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Lua**
 
-- 💬 Ask me about **React, Python, and Node.js**
+- 💬 Ask me about **React, Angular, TypeScript, Java, and relational databases**
 
 - 📫 How to reach me **isohrob1@gmail.com**
 
